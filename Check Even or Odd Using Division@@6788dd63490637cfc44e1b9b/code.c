@@ -5,6 +5,8 @@ int main() {
     if(a%2==0 || a==0){
         printf("Even");
     }
-    else("Odd");
+    else{
+        printf("Odd");
+    }
     return 0;
 }
