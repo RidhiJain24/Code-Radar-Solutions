@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
-    int cp,sp;
-    scanf("%d %d",&cp,&sp)
-    if(cp>sp){
+    int c,s;
+    scanf("%d %d",&c,&s)
+    if(c>s){
         printf("Loss");
     }
     else{
